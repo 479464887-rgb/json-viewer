@@ -1,5 +1,6 @@
 {
   "manifest_version": 3,
+  "minimum_chrome_version": "88",
   "name": "JSON Viewer",
   "version": "1.0.0",
   "description": "Auto-formats JSON responses in browser. Tree view with collapsible nodes.",
